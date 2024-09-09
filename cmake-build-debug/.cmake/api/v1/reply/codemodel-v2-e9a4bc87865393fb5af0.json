@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assignment-1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise-5-Debug-5bda33787240d371fb42.json",
+					"name" : "exercise-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise-6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise-6-Debug-a284b04ff8d34ed9f5a1.json",
+					"name" : "exercise-6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise-7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise-7-Debug-2a301b4d6d9a6d97ffcf.json",
+					"name" : "exercise-7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "playground::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-playground-Debug-858ed8f3a73a97677a6e.json",
+					"name" : "playground",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen/cmake-build-debug",
+		"source" : "C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

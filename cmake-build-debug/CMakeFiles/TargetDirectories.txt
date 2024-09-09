@@ -1,0 +1,6 @@
+C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen/cmake-build-debug/CMakeFiles/exercise-5.dir
+C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen/cmake-build-debug/CMakeFiles/exercise-6.dir
+C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen/cmake-build-debug/CMakeFiles/exercise-7.dir
+C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen/cmake-build-debug/CMakeFiles/playground.dir
+C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magn6/Documents/GitHub/assignment-1-simon-nygaard-magnus-ingemansen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
